@@ -1,0 +1,12 @@
+The following helps explain the naming convention for the Frames:
+
+COLOR - FRAME MATERIAL/LOOK - CORNER SHAPE - ART SIZE (UPPER AREA) - LOGO LOCATION
+
+EXAMPLE: PinkCFBevel680x800TL
+Pink - Carbon Fiber - Bevel - 680 x 800 - Top Left
+
+LOGO AREA KEY
+TL = Top Left
+LR = Lower Right
+BL = Bottom Left
+BM = Bottom Middle
