@@ -4,7 +4,7 @@
 }
 body {
 	padding-top: 0px;
-	background-color: #01111d;
+	background-color: #031900;
 	color: #FFF;
 	font-family: verdana, arial, sans-serif;
 
@@ -12,7 +12,7 @@ body {
 	letter-spacing: 1px;
 }
 a {color: #FFF;font-size: 14px;}
-a:hover {color: #01a9c0;}
+a:hover {color: #5b8e40;}
 .more{float: left;}
 .clear{clear:both;}
 p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
@@ -32,11 +32,11 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 
 	list-style-type: none;
 }
-#m01 {left:125px;}
-#m02 {left:230px;}
-#m03 {left:335px;}
-#m04 {left:480px;}
-#m05 {left:605px;}
+#m01 {left:129px;}
+#m02 {left:233px;}
+#m03 {left:345px;}
+#m04 {left:493px;}
+#m05 {left:623px;}
 #m06 {left:730px;}
 
 #menu a{
@@ -47,7 +47,7 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	text-decoration:none;
 	text-transform: uppercase;
 }
-#menu a:hover {color: #01a9c0;}
+#menu a:hover {color: #5b8e40;}
 #header {
 	background-image:url(images/header.gif);
 
