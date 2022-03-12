@@ -112,11 +112,17 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
   text-decoration: dashed underline overline red;
 }
 #dex {
-	margin: 0px 0px 0px 70px;
+	margin: 0px 0px 0px 36px;
 	text-align: center;
 	width:873px;
 }
-#dex table, th, td, tr {
+#dex table {
+	text-align: center;
+	width:150px;
+}
+#dex th, td, tr {
+  padding: 10px 22px 3px 22px;
+	background: transparent;
 	text-align: center;
 	width:150px;
 }
