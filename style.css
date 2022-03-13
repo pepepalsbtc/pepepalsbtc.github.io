@@ -99,7 +99,7 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	height:auto;
 }
 #series {
-	margin: 0px 0px 0px 45px;
+	margin: 0px 0px 0px 70px;
 	text-align: center;
 	width:800px;
 }
@@ -147,7 +147,11 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	background-image:url(images/content.gif);
 	width:873px;
 }
-
+#dex h2{
+	margin: 0px 0px 0px 340px;
+  text-align: left;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
 
 #content {
 	background-image:url(images/content.gif);
