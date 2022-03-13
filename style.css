@@ -6,8 +6,7 @@ body {
 	padding-top: 0px;
 	background-color: #031900;
 	color: #FFF;
-	font-family: verdana, arial, sans-serif;
-
+	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 	text-align: left;
 	letter-spacing: 1px;
 }
@@ -40,12 +39,11 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 #m06 {left:730px;}
 
 #menu a{
-	font-family: verdana, arial, sans-serif;
+	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 	font-size: 12px;
 	font-weight:bolder;
 	color:#FFFFFF;
 	text-decoration:none;
-	text-transform: uppercase;
 }
 #menu a:hover {color: #5b8e40;}
 #header {
@@ -77,6 +75,7 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 }
 #welcome h2{
 	margin: 0px 0px 20px 0px;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 #welcome p{
 	width:200px;
@@ -99,18 +98,56 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	width:150px;
 	height:auto;
 }
+#series {
+	margin: 0px 0px 0px 45px;
+	text-align: center;
+	width:800px;
+}
+#series .underover {
+	text-decoration: none;
+  text-decoration: dashed underline overline green;
+}
+#series .underover2 {
+	text-decoration: none;
+  text-decoration: dashed underline overline red;
+}
 #dex {
-	margin: 0px 0px 0px 70px;
+	margin: 0px 0px 0px 36px;
 	text-align: center;
 	width:873px;
 }
-#dex table, th, td, tr {
+#dex table {
+	text-align: center;
+	width:150px;
+}
+#dex th, td, tr {
+  padding: 10px 22px 3px 22px;
+	background: transparent;
+	text-align: center;
 	width:150px;
 }
 #dex img{
 	width:200px;
 	height:auto;
 }
+#dex left {
+	float:left;
+	width:200px;
+	margin: 0px 0px 0px 85px;
+	display:inline;
+}
+#dex right {
+	float:right;
+	width:400px;
+	height:auto;
+	margin: 0px 62px 20px 0px;
+	display:inline;
+}
+#dex content {
+	background-image:url(images/content.gif);
+	width:873px;
+}
+
 
 #content {
 	background-image:url(images/content.gif);
