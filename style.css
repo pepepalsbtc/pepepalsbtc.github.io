@@ -148,8 +148,8 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	width:873px;
 }
 #dex h2{
-	margin: 0px 0px 0px 340px;
-  text-align: left;
+	margin: 0px 0px 0px -40px;
+  text-align: center;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 #dex h3{
