@@ -152,6 +152,9 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
   text-align: left;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+#dex h3{
+		margin: 0px 0px 0px -40px;line-height: 16px;font-size: 14px;
+	}
 
 #content {
 	background-image:url(images/content.gif);
