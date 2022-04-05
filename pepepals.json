@@ -2,8 +2,9 @@
     "asset": "PEPEPALS",
     "image": "https://raw.githubusercontent.com/pepepalsbtc/pepepalsbtc.github.io/main/pepepals-icon.png",
     "image_large": "https://raw.githubusercontent.com/pepepalsbtc/pepepalsbtc.github.io/main/images/PepePalsLogo.gif",
+    "name": "https://xchain.io/asset/PEPEPALS",
     "description": "A series of Pepe and his pals in NFT form by community artists.",
     "website": "https://pepepalsbtc.github.io/",
-    "website2": "https://xchain.io/asset/PEPEPALS",
+    "direct_link": "https://xchain.io/asset/PEPEPALS",
     "image_title": "PEPEPALS"
 }
