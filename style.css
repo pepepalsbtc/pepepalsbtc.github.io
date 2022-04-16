@@ -155,44 +155,6 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 #dex h3{
 		margin: 0px 0px 0px -40px;line-height: 16px;font-size: 14px;
 	}
-#dexoffset {
-	margin: 0px 0px 0px 18%;
-	text-align: center;
-	width:873px;
-}
-#dexoffset table {
-	text-align: center;
-	width:150px;
-}
-#dexoffset th, td, tr {
-  padding: 10px 22px 3px 22px;
-	background: transparent;
-	text-align: center;
-	width:150px;
-}
-#dexoffset img{
-	width:200px;
-	height:auto;
-}
-#dexoffset2 {
-	margin: 0px 0px 0px 18%;
-	text-align: center;
-	width:873px;
-}
-#dexoffset2 table {
-	text-align: center;
-	width:150px;
-}
-#dexoffset2 th, td, tr {
-  padding: 10px 22px 3px 22px;
-	background: transparent;
-	text-align: center;
-	width:150px;
-}
-#dexoffset2 img{
-	width:200px;
-	height:auto;
-}
 #content {
 	background-image:url(images/content.gif);
 	width:873px;
