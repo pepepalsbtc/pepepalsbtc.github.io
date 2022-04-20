@@ -64,7 +64,15 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	width:405px;
 	height:405px;
 	float:right;
-	margin-right:60px;
+	margin-right:80px;
+	display:inline;
+}
+#gf {
+	background-image:url(GuideFrames.png);
+	width:405px;
+	height:405px;
+	float:right;
+	margin-right:80px;
 	display:inline;
 }
 #welcome {
