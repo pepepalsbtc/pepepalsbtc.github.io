@@ -68,11 +68,8 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	display:inline;
 }
 #gf {
-	background-image:url(images/GuideFrames.png);
-	width:405px;
-	height:405px;
-	float:right;
-	margin-right:80px;
+	margin: 40px 0px 0px 40px;
+	float:center;
 	display:inline;
 }
 #guidetext {
