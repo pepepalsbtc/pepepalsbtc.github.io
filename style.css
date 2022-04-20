@@ -165,6 +165,12 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	margin: 0px 0px 0px 85px;
 	display:inline;
 }
+#faqfull {
+	float:left;
+	width:720px;
+	margin: 0px 0px 0px 85px;
+	display:inline;
+}
 #right {
 	float:right;
 	width:258px;
