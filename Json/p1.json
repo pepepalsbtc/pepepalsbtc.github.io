@@ -1,9 +1,10 @@
 {
     "asset": "PROMO ONE",
-    "name": "Pepe and Pals July 4th",
+    "name": "PROMO ONE",
     "image": "https://pepepalsbtc.github.io/Cards/PromoCards/PROMOONE/promooneicon.png",
-    "image_large": "https://pepepalsbtc.github.io/Cards/PromoCards/PROMOONE/PROMOONE.mp4",
-    "description": "Pepe and Pals July 4th",
-    "website": "https://pepepalsbtc.github.io/",
-    "image_title": "PROMO ONE"
-}
+    "image_large": "https://pepepalsbtc.github.io/Cards/PromoCards/PROMOONE/PROMOONE.png",
+    "original_media": "https://pepepalsbtc.github.io/Cards/PromoCards/PROMOONE/PROMOONE.mp4",
+    "description": "<p>Pepe and Pals July 4th</p><br><video draggable=\"false\" controls playsinline=\"\" autoplay=\"\" loop=\"\" class=\"img-fluid img-responsive\" width=\"100%\" style=\"max-width:400px\"><source type=\"video/mp4\" src=\"https://pepepalsbtc.github.io/Cards/PromoCards/PROMOONE/PROMOONE.mp4\"></video><div><br /></div>",
+    "author": "BitcoinJake09",
+    "year": "2022"
+  }
