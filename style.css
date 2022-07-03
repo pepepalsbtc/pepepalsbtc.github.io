@@ -142,6 +142,8 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	height:auto;
 }
 #dex video{
+	margin: 0px 0px 0px 36px;
+	text-align: center;
 	width:200px;
 	height:auto;
 }
